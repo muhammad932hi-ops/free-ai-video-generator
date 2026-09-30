@@ -1,0 +1,1769 @@
+VOICE: en-US-GuyNeural
+music
+30-MINUTE MASTER VIDEO GENERATION PROMPT
+
+## PROJECT
+
+Create a **30-minute premium cinematic Pakistani mystery-thriller drama episode** titled:
+
+**JO DIKHTA NAHI — Chapter 01: 3:17 AM**
+
+The entire video must feel like **one professionally produced film episode**, not a collection of disconnected AI clips.
+
+The narrative follows **FAHAD**, a frightened 17-year-old boy who arrives at a police station at exactly **3:17 AM**, covered in rain and with blood on his clothes. He refuses to explain why he is running. A photograph of him is already circulating online accusing him of murder. A small memory card found in his possession eventually exposes a hidden warehouse operation involving working children and a respected businessman. But the deeper mystery is not simply who is guilty. It is why Fahad trusted the police station, what happened to his brother, why the same property reference appears in old and modern records, and why someone inside the system already seems to know what is happening.
+
+The episode must prioritize:
+
+**MYSTERY → SUSPICION → INVESTIGATION → FALSE ASSUMPTION → EVIDENCE → EMOTIONAL REVEAL → SECOND TRUTH → FINAL CLIFFHANGER**
+
+Do not explain the social issue at the beginning.
+
+Do not tell the audience what the story is “about.”
+
+Let the audience discover everything naturally.
+
+---
+
+# FORMAT
+
+Duration: **approximately 30 minutes**
+
+Aspect ratio: **16:9**
+
+Style: **cinematic live-action Pakistani prestige drama**
+
+Resolution: highest realistic cinematic quality available
+
+Frame rate: natural cinematic motion, approximately 24 fps
+
+Lighting: physically believable practical lighting
+
+Camera: professional cinema camera language
+
+Lens language: primarily 24mm, 35mm, 50mm, 85mm equivalent depending on scene
+
+Depth of field: realistic, never excessively artificial
+
+Motion blur: physically natural
+
+Film texture: extremely subtle cinematic grain
+
+Color grade: restrained, realistic, atmospheric
+
+Dialogue: **natural Roman Urdu**
+
+Accent: authentic Pakistani Urdu
+
+Acting: subtle, restrained, emotionally truthful
+
+Music: minimal and suspense-driven
+
+Sound: detailed location sound and realistic environmental ambience
+
+---
+
+# IMPORTANT GENERATION DIRECTIVE
+
+Treat this as a **single continuous 30-minute narrative universe**.
+
+Every scene must remember everything that happened previously.
+
+Never reset the characters.
+
+Never redesign a location halfway through the episode.
+
+Never randomly change clothing.
+
+Never change weather without narrative justification.
+
+Never change vehicles.
+
+Never change object design.
+
+Never change facial identity.
+
+Never change age.
+
+Never change hairstyles.
+
+Never introduce random characters.
+
+Characters must physically move through believable spaces.
+
+Doors, corridors, streets, staircases and rooms must connect spatially.
+
+Props must remain physically consistent.
+
+A phone appearing in one person's hand cannot mysteriously appear somewhere else.
+
+Blood, rain, dirt, wet clothing and fatigue must progress naturally over time.
+
+---
+
+# VISUAL WORLD
+
+The setting is a fictional contemporary Pakistani city inspired by real urban Pakistan.
+
+The city must feel authentic:
+
+narrow streets
+
+aging concrete buildings
+
+utility poles
+
+dense electrical wiring
+
+rooftop water tanks
+
+small roadside shops
+
+tea stalls
+
+motorcycles
+
+rickshaws
+
+ordinary sedans
+
+older apartment buildings
+
+government offices
+
+police station corridors
+
+industrial warehouses
+
+crowded roads
+
+rainwater on broken roads
+
+fluorescent interiors
+
+cheap plastic furniture
+
+metal shutters
+
+dusty registers
+
+old paper files
+
+mobile phones
+
+ordinary Pakistani clothing
+
+natural urban clutter
+
+Do not make Pakistan look glamorous or stereotypically poor.
+
+Show an ordinary believable city.
+
+---
+
+# MAIN CHARACTER CONTINUITY
+
+## FAHAD
+
+17-year-old Pakistani boy.
+
+Slim body.
+
+Medium-brown South Asian skin.
+
+Narrow youthful face.
+
+Large dark frightened eyes.
+
+Short messy black hair.
+
+Small cut above the right eyebrow.
+
+Faded charcoal-gray shalwar kameez.
+
+Old worn sandals.
+
+Left shirt cuff stained with blood.
+
+Clothes become progressively less wet as the story develops.
+
+His physical exhaustion increases gradually.
+
+He starts frightened and defensive.
+
+Later he becomes more willing to speak.
+
+By the end he is emotionally devastated after recognizing his brother.
+
+Never change his face.
+
+Never make him look older.
+
+Never make him physically muscular.
+
+Never change clothing color.
+
+Never give him fashionable clothing.
+
+His fear must be communicated mainly through:
+
+breathing
+
+eyes
+
+hesitation
+
+trembling hands
+
+short answers
+
+looking toward exits
+
+checking behind himself
+
+silence
+
+---
+
+# ARIF
+
+Late-30s Pakistani police constable.
+
+Medium build.
+
+Medium-brown skin.
+
+Short black hair.
+
+Trimmed moustache.
+
+Tired but intelligent eyes.
+
+Dark navy police uniform.
+
+Black belt.
+
+Black worn police shoes.
+
+Simple wristwatch.
+
+Experienced but not heroic.
+
+He initially suspects Fahad.
+
+He gradually becomes curious.
+
+He notices details other people ignore.
+
+He never behaves like an action hero.
+
+He is observant and restrained.
+
+Never turn him into an obvious villain.
+
+Never make him excessively emotional.
+
+His major transformation is intellectual:
+
+**suspicion → curiosity → investigation → realization → fear**
+
+---
+
+# JAVED MIRZA
+
+Mid-50s Pakistani businessman.
+
+Well-groomed gray-black hair.
+
+Calm expression.
+
+Cream kurta.
+
+Dark understated waistcoat.
+
+Polished shoes.
+
+Expensive but believable Pakistani businessman appearance.
+
+Confident posture.
+
+Publicly respected.
+
+Comfortable around cameras.
+
+Never play him as a stereotypical villain.
+
+His danger comes from how ordinary, polite and respected he appears.
+
+When he smiles publicly, it must feel completely different from the dark warehouse reality.
+
+---
+
+# SHAHID
+
+50s Pakistani tea-stall owner.
+
+Weathered face.
+
+Brown shalwar kameez.
+
+Dark sleeveless sweater.
+
+Quiet and observant.
+
+Old television or radio at the tea stall.
+
+He notices things but speaks carefully.
+
+His silence is important.
+
+---
+
+# WAREHOUSE CHILDREN
+
+Pakistani boys approximately 10–16.
+
+Simple worn work clothing.
+
+Dusty skin.
+
+Tired faces.
+
+Natural behavior.
+
+No exaggerated misery.
+
+No graphic injuries.
+
+They should appear like real children working in a real industrial environment.
+
+Their presence should initially be mysterious.
+
+Only later does the audience understand what they are doing.
+
+---
+
+# STORY STRUCTURE
+
+## 00:00–02:00 — THE HOOK
+
+Open in complete darkness.
+
+Rain.
+
+Distant motorcycle engine.
+
+A man's breathing.
+
+Bare feet striking wet asphalt.
+
+Do not explain anything.
+
+Gradually reveal Fahad running through a dark Pakistani street.
+
+Camera stays slightly behind and beside him.
+
+He repeatedly looks backward.
+
+Something is following him.
+
+Do not clearly reveal who.
+
+Motorcycle headlights briefly appear.
+
+Fahad turns into another alley.
+
+He falls.
+
+His hand hits dirty rainwater.
+
+He gets back up.
+
+Blood appears on his sleeve.
+
+He whispers:
+
+**FAHAD**
+“Bas thora sa aur... please.”
+
+A vehicle passes.
+
+Headlights temporarily overexpose the image.
+
+Fahad disappears into darkness.
+
+Cut to:
+
+A digital/analog clock approaching:
+
+**3:16 AM**
+
+Hard cut.
+
+The clock becomes:
+
+**3:17 AM**
+
+Fahad crashes through a police-station door.
+
+---
+
+# 02:00–05:00 — THE POLICE STATION
+
+Interior police station at 3:17 AM.
+
+Old desks.
+
+Ceiling fans.
+
+Fluorescent lights.
+
+Paper files.
+
+A wall clock.
+
+A sleeping constable in the background.
+
+Fahad enters soaked and exhausted.
+
+Arif immediately stands.
+
+He reaches for his weapon.
+
+Do not make the moment exaggerated.
+
+ARIF:
+
+**“Naam?”**
+
+Fahad says nothing.
+
+ARIF:
+
+**“Kis ne maara?”**
+
+Fahad looks toward the door.
+
+FAHAD:
+
+**“Mujhe ghar nahi jaana.”**
+
+ARIF:
+
+**“Kyun?”**
+
+FAHAD:
+
+**“Wahan woh mujhe dhoond rahe hain.”**
+
+Silence.
+
+Arif watches him.
+
+Fahad slowly sits.
+
+His hands shake.
+
+He looks toward the police station entrance.
+
+A motorcycle passes outside.
+
+Fahad flinches.
+
+Arif notices.
+
+Do not explain who is chasing him.
+
+---
+
+# 05:00–08:00 — THE FIRST IMPOSSIBLE CLUE
+
+Fahad eventually falls asleep beneath a desk.
+
+The police station becomes quiet.
+
+Arif checks Fahad's pockets.
+
+He finds:
+
+small coins
+
+old bus receipt
+
+folded paper
+
+school-related object
+
+small memory card
+
+Arif stops.
+
+He looks at Fahad.
+
+His phone vibrates.
+
+A local group message is circulating.
+
+Fahad's photograph appears.
+
+The message says he is a murderer.
+
+More messages appear.
+
+“CHOR.”
+
+“PAKRO.”
+
+“POLICE SE PEHLE MIL JAYE TO...”
+
+Arif looks toward sleeping Fahad.
+
+Then at the photograph.
+
+Then at the clock.
+
+Something is wrong.
+
+The picture was clearly taken before Fahad reached the station.
+
+Arif whispers:
+
+**ARIF**
+“Yeh photo yahan se pehle ki hai...”
+
+That becomes the first major mystery.
+
+---
+
+# 08:00–10:30 — FALSE PUBLIC STORY
+
+Morning.
+
+Rain has stopped.
+
+A Pakistani roadside tea stall.
+
+Shahid watches television.
+
+A polished television report plays.
+
+Javed Mirza appears distributing school supplies to children.
+
+He smiles.
+
+Cameras surround him.
+
+JAVED:
+
+**“Bachon ka mustaqbil hum sab ki zimmedari hai.”**
+
+People at the tea stall react positively.
+
+One customer says Fahad is probably another criminal.
+
+SHAHID remains silent.
+
+Then he sees Fahad's photograph on television.
+
+His expression changes slightly.
+
+He shuts off the television.
+
+Customer:
+
+**“Kya hua?”**
+
+SHAHID:
+
+**“Har tasveer poori kahani nahi hoti.”**
+
+Do not explain Shahid's connection yet.
+
+---
+
+# 10:30–13:30 — INTERROGATION
+
+Back at police station.
+
+Fahad wakes.
+
+Arif gives him water.
+
+The relationship is still suspicious.
+
+ARIF:
+
+**“Tumhare paas memory card kahan se aaya?”**
+
+Fahad says nothing.
+
+ARIF:
+
+**“Murder nahi kiya?”**
+
+FAHAD:
+
+**“Nahi.”**
+
+ARIF:
+
+**“Phir khoon?”**
+
+Fahad looks at his sleeve.
+
+He says quietly:
+
+**“Mera nahi.”**
+
+Silence.
+
+Arif sits down.
+
+No dramatic music.
+
+FAHAD:
+
+**“Main letters deta tha.”**
+
+ARIF:
+
+**“Kis ke?”**
+
+FAHAD:
+
+**“Bus adda... ek aadmi ke.”**
+
+Arif listens.
+
+Fahad explains that he delivered sealed envelopes.
+
+He saw another boy being beaten.
+
+He tried to stop it.
+
+During the struggle a jacket fell.
+
+The memory card dropped.
+
+Fahad took it.
+
+FAHAD:
+
+**“Mujhe laga is mein kisi ki jaan hai.”**
+
+ARIF:
+
+**“Kis ki?”**
+
+FAHAD:
+
+**“Pata nahi.”**
+
+---
+
+# 13:30–16:30 — THE MEMORY CARD
+
+Night.
+
+Evidence room.
+
+Arif places the memory card into a computer.
+
+The room is quiet.
+
+Computer fan.
+
+Fluorescent hum.
+
+Keyboard.
+
+Rain against window.
+
+First file:
+
+spreadsheet.
+
+Names.
+
+Payments.
+
+Dates.
+
+Second file:
+
+warehouse video.
+
+Dark industrial interior.
+
+Children carrying boxes.
+
+Arif becomes still.
+
+Do not immediately show everything.
+
+Reveal the warehouse through fragments:
+
+small hands lifting boxes
+
+bare feet
+
+metal containers
+
+industrial conveyor
+
+sleeping child in corner
+
+a supervisor's shadow
+
+boxes stacked to ceiling
+
+camera turning
+
+A boy looks toward camera.
+
+Arif freezes.
+
+The boy resembles someone Fahad mentioned.
+
+Arif looks toward the door.
+
+---
+
+# 16:30–18:30 — THE OLD FILE
+
+Arif investigates the warehouse address.
+
+He pulls a modern property file.
+
+One reference number.
+
+He notices it again in another document.
+
+He searches an older archive box.
+
+Dust.
+
+Paper.
+
+Old map.
+
+Faded lines.
+
+An administrative boundary marking.
+
+A survey reference.
+
+Do not explain colonial history in dialogue.
+
+This is simply a visual mystery.
+
+The old document and modern document share the same property reference.
+
+Arif whispers:
+
+**“Itna purana record...”**
+
+An archivist enters.
+
+ARCHIVIST:
+
+**“Kuch zameenein file se zyada purani hoti hain.”**
+
+Arif looks at him.
+
+ARCHIVIST:
+
+**“Record badalte rehte hain.”**
+
+No further explanation.
+
+Return to the present.
+
+This historical clue should feel mysterious rather than educational.
+
+---
+
+# 18:30–21:00 — THE WAREHOUSE
+
+Night.
+
+Arif and Fahad observe the industrial location from a concealed position.
+
+Rain begins again lightly.
+
+Large warehouse.
+
+Weak security lights.
+
+Metal gate.
+
+Motorcycles.
+
+Truck movement.
+
+Fahad recognizes the place.
+
+FAHAD:
+
+**“Yahin tha.”**
+
+A convoy arrives.
+
+Elegant black vehicles.
+
+Javed Mirza steps out.
+
+Several people greet him.
+
+A camera crew records him.
+
+JAVED:
+
+**“Hum bachon ki taleem ke liye committed hain.”**
+
+Fahad looks at the warehouse.
+
+The loading door opens.
+
+Inside:
+
+children working.
+
+Outside:
+
+cameras photographing Javed helping children.
+
+The contrast should be devastating without dialogue explaining it.
+
+Arif looks at Fahad.
+
+Fahad says nothing.
+
+---
+
+# 21:00–23:30 — THE BROTHER
+
+Back at the evidence room.
+
+Arif plays the footage again.
+
+He enlarges one frame.
+
+A young boy looks toward the camera.
+
+Fahad approaches.
+
+His breathing changes.
+
+He steps closer to the monitor.
+
+FAHAD:
+
+**“Ruko.”**
+
+Arif pauses the video.
+
+Fahad touches the screen.
+
+His eyes fill with shock.
+
+FAHAD:
+
+**“Yeh mera bhai hai.”**
+
+Silence.
+
+No music for several seconds.
+
+Arif looks at Fahad.
+
+ARIF:
+
+**“Tum ne kaha tha woh school mein hai.”**
+
+Fahad struggles to answer.
+
+FAHAD:
+
+**“Tha...”**
+
+His voice breaks.
+
+**“Ya main samajhta tha.”**
+
+This is the emotional center of the episode.
+
+Do not exaggerate.
+
+No screaming.
+
+No melodramatic crying.
+
+Just stunned realization.
+
+---
+
+# 23:30–26:00 — THE SECOND TRUTH
+
+Arif investigates further.
+
+The payment spreadsheet includes names.
+
+Fahad's family surname appears.
+
+Not as an employee.
+
+As a payment recipient.
+
+Arif becomes confused.
+
+Fahad insists:
+
+**“Humne kisi se paisa nahi liya.”**
+
+Arif searches.
+
+Another file.
+
+Old warehouse records.
+
+Property records.
+
+Old administrative map.
+
+Current ownership record.
+
+Several generations of paperwork.
+
+A pattern becomes visible:
+
+The same land reference appears repeatedly.
+
+The warehouse did not suddenly appear.
+
+Its institutional history is much older.
+
+Do not claim that the historical document itself proves the present crime.
+
+The historical paperwork functions only as a visual thread connecting land, administration and present-day power structures.
+
+Arif realizes the present mystery is bigger than one warehouse.
+
+---
+
+# 26:00–28:00 — 3:17 RETURNS
+
+Fahad is moved into a safer room.
+
+Arif returns alone to the evidence room.
+
+He watches the footage again.
+
+A child turns toward the camera.
+
+The video timestamp is visible.
+
+Arif looks at the station clock.
+
+3:17 AM.
+
+He checks the first photograph of Fahad.
+
+Timestamp:
+
+3:17 AM.
+
+He looks confused.
+
+The photograph and Fahad's arrival appear almost perfectly synchronized.
+
+Someone knew where Fahad would go.
+
+Someone anticipated the police station.
+
+Arif slowly looks toward the hallway.
+
+Someone walks past the frosted glass.
+
+Arif stands.
+
+The figure disappears.
+
+Silence.
+
+---
+
+# 28:00–29:30 — THE NAME
+
+Arif returns to Fahad.
+
+Fahad is awake.
+
+ARIF:
+
+**“Tum yahan kyun aaye thay?”**
+
+FAHAD:
+
+**“Mujhe kaha gaya tha...”**
+
+He stops.
+
+ARIF:
+
+**“Kis ne?”**
+
+Fahad looks directly at him.
+
+**“Aap par bharosa karne ko.”**
+
+Arif freezes.
+
+**“Kis ne kaha?”**
+
+Fahad hesitates.
+
+He slowly pulls out the folded paper from his pocket.
+
+He opens it.
+
+One handwritten name.
+
+He gives it to Arif.
+
+Arif reads it.
+
+His expression changes.
+
+Do not reveal the name immediately.
+
+Hold on his eyes.
+
+Then show the paper.
+
+The name is:
+
+**ARIF**
+
+Silence.
+
+---
+
+# 29:30–30:00 — FINAL CLIFFHANGER
+
+Close-up of Fahad.
+
+He looks terrified.
+
+FAHAD:
+
+**“Mujhe kaha gaya tha police station mein sirf aap par bharosa karna.”**
+
+Arif stares at him.
+
+His face says he has no idea who wrote the note.
+
+The wall clock:
+
+**3:17 AM**
+
+The camera slowly moves toward the clock reflection in the evidence-room glass.
+
+Cut back to the warehouse footage.
+
+The boy who Fahad identified as his brother looks directly into the camera.
+
+His lips move.
+
+No audio.
+
+Freeze for a fraction of a second.
+
+CUT TO BLACK.
+
+No moral.
+
+No explanation.
+
+No narrator explaining the meaning.
+
+No resolution.
+
+The episode ends with the question:
+
+**Who wrote Fahad's note — and how did they know he would reach Arif?**
+
+---
+
+# DIRECTING LANGUAGE
+
+The entire episode must be directed like a serious international crime drama.
+
+Reference the emotional discipline of:
+
+investigative thriller
+
+Pakistani social realism
+
+slow-burn mystery
+
+character-driven crime cinema
+
+prestige television
+
+Do NOT imitate a specific filmmaker.
+
+Do NOT use exaggerated Bollywood melodrama.
+
+Do NOT use artificial “AI cinematic” effects.
+
+Suspense comes from information being withheld.
+
+The camera should frequently know slightly more than the character but never enough for the audience to solve the mystery too early.
+
+---
+
+# CAMERA DESIGN
+
+During Fahad's escape:
+
+controlled handheld
+
+35mm lens feeling
+
+low camera position
+
+close proximity
+
+occasional foreground obstruction
+
+rain reflections
+
+headlights
+
+shallow focus
+
+natural motion blur
+
+During police investigation:
+
+50mm
+
+stable frames
+
+slow controlled movement
+
+negative space
+
+door-frame compositions
+
+reflections in glass
+
+over-the-shoulder framing
+
+During warehouse:
+
+35mm and 50mm
+
+longer observation
+
+dark foregrounds
+
+practical industrial lights
+
+deep shadows
+
+visible spatial geography
+
+During emotional brother reveal:
+
+85mm portrait feeling
+
+very slow camera movement
+
+eyes and breathing prioritized
+
+background reduced but still believable
+
+During final cliffhanger:
+
+slow deliberate movement
+
+almost no music
+
+clock reflection
+
+darkness
+
+---
+
+# LIGHTING
+
+Night exterior:
+
+rainy blue-gray ambient light
+
+streetlights
+
+vehicle headlights
+
+shop lights
+
+window light
+
+wet asphalt reflections
+
+Police station:
+
+old fluorescent tubes
+
+cool practical light
+
+slightly greenish government-office atmosphere
+
+No artificial neon.
+
+Tea stall:
+
+warm tungsten practicals
+
+television glow
+
+dim surrounding street
+
+Warehouse:
+
+industrial overhead lamps
+
+isolated practical bulbs
+
+dark corners
+
+hard shadows
+
+occasional passing vehicle light
+
+Archive:
+
+dusty daylight
+
+soft window light
+
+warm paper tones
+
+Final evidence room:
+
+cold fluorescent light
+
+deep shadows
+
+subtle reflection on glass
+
+---
+
+# SOUND DESIGN
+
+Build an extremely detailed natural Pakistani soundscape.
+
+Night:
+
+rain
+
+distant dogs
+
+motorcycles
+
+car tyres
+
+electrical wires
+
+distant traffic
+
+dripping water
+
+footsteps
+
+breathing
+
+Police station:
+
+ceiling fan
+
+fluorescent hum
+
+radio static
+
+paper movement
+
+chairs scraping
+
+keys
+
+phone vibrations
+
+distant conversations
+
+tea stall:
+
+cups
+
+spoon against glass
+
+television
+
+street vendors
+
+rickshaw engines
+
+motorcycles
+
+warehouse:
+
+metal doors
+
+truck engines
+
+machines
+
+boxes moving
+
+footsteps
+
+fans
+
+distant shouting
+
+small metal impacts
+
+Evidence room:
+
+computer fan
+
+keyboard
+
+hard-drive clicks
+
+electrical hum
+
+paper
+
+clock ticking
+
+Use silence aggressively before major reveals.
+
+---
+
+# MUSIC
+
+Extremely restrained score.
+
+First 5 minutes:
+
+almost no music.
+
+Escape:
+
+deep atmospheric low-frequency pulse.
+
+Investigation:
+
+minimal repeating tension texture.
+
+Warehouse:
+
+subtle bass pressure.
+
+Brother reveal:
+
+music disappears.
+
+Final minute:
+
+almost complete silence.
+
+Never use sentimental music to tell the audience when to cry.
+
+Never use a giant cinematic “boom” after every reveal.
+
+---
+
+# DIALOGUE RULES
+
+All dialogue must sound naturally spoken by Pakistani people.
+
+Use simple Roman Urdu.
+
+Do not make characters speak like writers.
+
+Do not use long philosophical speeches.
+
+Do not explain the theme.
+
+Do not give characters exposition simply for the audience.
+
+Characters should speak because they need something from another character.
+
+Use interruption.
+
+Use hesitation.
+
+Use incomplete sentences.
+
+Use silence.
+
+Allow facial expressions to replace dialogue.
+
+---
+
+# PACING
+
+Do not rush.
+
+Do not stretch meaningless shots.
+
+Every scene must either:
+
+introduce information
+
+hide information
+
+change suspicion
+
+increase danger
+
+reveal character
+
+create emotional consequence
+
+or create a new question.
+
+The first 60 seconds must generate maximum curiosity.
+
+The middle must progressively increase uncertainty.
+
+The brother revelation should emotionally reframe the entire episode.
+
+The final 30 seconds must create a larger mystery rather than close the story.
+
+---
+
+# HISTORICAL THREAD — SUBTLE ONLY
+
+The episode contains an emerging historical visual motif.
+
+Use:
+
+old property map
+
+survey reference
+
+administrative boundary
+
+archival file
+
+stamped paper
+
+modern property document
+
+old land register
+
+present-day warehouse
+
+The purpose is not to claim that every current problem was caused by British rule.
+
+Do not insert historical speeches into this episode.
+
+Do not make characters suddenly discuss colonialism.
+
+The historical material should appear naturally as part of the investigation.
+
+The audience should simply notice:
+
+**the same land has passed through different systems, files and owners, while the paperwork changes and the underlying power relationships continue to matter.**
+
+This thread becomes clearer in later episodes.
+
+---
+
+# CHARACTER EMOTION ARC
+
+FAHAD:
+
+fear → survival → suspicion → reluctant trust → hope → recognition → devastation
+
+ARIF:
+
+suspicion → curiosity → investigation → concern → discovery → personal uncertainty
+
+JAVED:
+
+respectability → confidence → controlled presence → suspicion only through evidence
+
+SHAHID:
+
+observer → silent clue → withheld knowledge
+
+BROTHER:
+
+unknown figure → mysterious child → recognizable face → emotional revelation
+
+---
+
+# VISUAL MOTIFS
+
+Repeat these motifs throughout the episode:
+
+**3:17 clock**
+
+**rainwater**
+
+**locked doors**
+
+**reflection in glass**
+
+**memory card**
+
+**old paper**
+
+**modern digital screen**
+
+**warehouse metal shutter**
+
+**children's hands**
+
+**official stamp**
+
+**property reference number**
+
+**television image of Javed**
+
+**Fahad looking backward**
+
+These objects should gradually acquire meaning.
+
+---
+
+# CONTINUITY RULE
+
+When transitioning from scene to scene, preserve:
+
+character position
+
+direction of movement
+
+wetness
+
+blood stains
+
+clothing
+
+hair
+
+props
+
+phone location
+
+memory card location
+
+time progression
+
+weather
+
+vehicle position
+
+building geography
+
+lighting logic
+
+emotional state
+
+Do not reset characters between scenes.
+
+Fahad must look increasingly exhausted as the episode progresses.
+
+Arif's clothing must remain exactly the same throughout the shift.
+
+The memory card must always be treated as a tiny physical object that can realistically be lost or handled.
+
+---
+
+# REALISM LOCK
+
+Faces must remain stable.
+
+Hands must remain anatomically correct.
+
+Eyes must remain aligned.
+
+Mouth movement must match speech.
+
+Walking must obey real human biomechanics.
+
+Vehicle movement must obey traffic physics.
+
+Rain must interact with clothing and surfaces physically.
+
+Water reflections must correspond to actual light sources.
+
+Doors must open from realistic hinges.
+
+Objects must have real weight.
+
+Children must move naturally.
+
+Police equipment must be believable.
+
+Pakistani architecture must be realistic.
+
+No impossible physics.
+
+No teleportation.
+
+No morphing.
+
+No spontaneous object appearance.
+
+---
+
+# NEGATIVE PROMPT
+
+No cartoon
+
+no anime
+
+no fantasy
+
+no sci-fi
+
+no futuristic Pakistan
+
+no glossy commercial look
+
+no plastic skin
+
+no beauty-filter faces
+
+no over-saturated colors
+
+no excessive teal-orange grading
+
+no Bollywood-style melodrama
+
+no exaggerated crying
+
+no heroic police action
+
+no superhero behavior
+
+no unrealistic gun choreography
+
+no excessive violence
+
+no graphic gore
+
+no random explosions
+
+no supernatural elements
+
+no ghosts
+
+no impossible camera movements
+
+no spinning camera
+
+no random drone shots
+
+no teleportation
+
+no face changes
+
+no age changes
+
+no hairstyle changes
+
+no wardrobe changes
+
+no body-proportion changes
+
+no duplicate people
+
+no extra fingers
+
+no malformed hands
+
+no warped vehicles
+
+no random new characters
+
+no fake subtitles
+
+no watermark
+
+no logo
+
+no generated text unless deliberately required
+
+no unreadable plot-critical documents
+
+no inconsistent weather
+
+no inconsistent architecture
+
+no continuity errors
+
+no cheap television soap aesthetic
+
+no exaggerated villain expressions
+
+no narrator explaining the mystery
+
+no moral lecture
+
+no happy ending
+
+no complete resolution
+
+---
+
+# FINAL CREATIVE DIRECTIVE
+
+Make the audience feel that they entered the story at **3:17 AM** without knowing what happened before.
+
+They should spend the first half asking:
+
+**Who is Fahad running from?**
+
+Then:
+
+**Why is he being called a murderer?**
+
+Then:
+
+**What is on the memory card?**
+
+Then:
+
+**Who is the businessman?**
+
+Then:
+
+**Who is the child in the warehouse?**
+
+Then:
+
+**Why does the old property record matter?**
+
+Then:
+
+**How did someone know Fahad would trust Arif?**
+
+The episode must end before those questions are completely answered.
+
+The audience should finish Chapter 1 with the feeling:
+
+**“I thought I understood what I was watching. I was wrong.”**
+
+The final image is the 3:17 clock reflected in glass.
+
+CUT TO BLACK.
+
+**JO DIKHTA NAHI**
